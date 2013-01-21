@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+find $1 -name \*.java | grep -v .svn | xargs grep -h import | sed -e 's/[.][A-Z*].*//' | sed -e 's/import //' | sed -e 's/static //' | sort | uniq
