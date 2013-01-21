@@ -1,0 +1,24 @@
+#!/usr/bin/ruby
+
+if ARGV.length < 2 
+  puts 'Usage: search-jars <root-directory> <regular-expresson>'
+  exit 1
+end
+
+
+rootDirectory = ARGV[0]
+jarEntryPattern = Regexp.new ARGV[1]
+
+fileGlob = "#{rootDirectory}/**/*.jar"
+
+Dir.glob(fileGlob) do |jarFile| 
+  jarContents = `jar -tf #{jarFile}`
+  jarEntries = jarContents.split("\n")
+  jarEntries.each do |jarEntry|
+    if jarEntryPattern.match(jarEntry)
+      $stdout.puts "#{jarFile}: #{jarEntry}" 
+    end
+  end
+end
+
+exit 0
