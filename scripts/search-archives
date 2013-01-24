@@ -12,6 +12,7 @@ jarEntryPattern = Regexp.new ARGV[1]
 fileGlob = "#{rootDirectory}/**/*.[ejw]ar"
 
 Dir.glob(fileGlob) do |jarFile|
+  next if File.directory?(jarFile)
   jarContents = `jar -tf #{jarFile}`
   jarEntries = jarContents.split("\n")
   jarEntries.each do |jarEntry|
