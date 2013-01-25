@@ -1,10 +1,8 @@
 package mangotiger.sql;
 
 import java.io.PrintWriter;
-import java.sql.Connection;
-import java.sql.Driver;
-import java.sql.DriverManager;
-import java.sql.SQLException;
+import java.sql.*;
+import java.util.logging.Logger;
 import javax.sql.DataSource;
 
 import org.apache.commons.logging.Log;
@@ -74,6 +72,10 @@ public class SimpleDataSource implements DataSource {
   }
 
   public final int getLoginTimeout() {return 0;}
+
+  public Logger getParentLogger() throws SQLFeatureNotSupportedException {
+    return null;
+  }
 
   public final void setLoginTimeout(final int seconds) {}
 

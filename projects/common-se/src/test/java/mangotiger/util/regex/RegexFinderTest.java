@@ -13,7 +13,7 @@ public class RegexFinderTest extends TestCase {
 
   RegexFinder regexFinder;
   private static final String ST_CRISPIN_TXT = "st-crispin.txt";
-  private static final String NEWLINE = System.getProperty("line.separator");
+  private static final String NEWLINE = "\n";
 
   public void testInputStream() throws Exception {
     InputStream is = getClass().getResourceAsStream(ST_CRISPIN_TXT);
