@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+<!-- If debug="true" to parse information or "null" to disable logging -->
+<log4j:configuration debug="true" xmlns:log4j="http://jakarta.apache.org/log4j/">
+
+  <appender name="Console" class="org.apache.log4j.ConsoleAppender">
+    <layout class="org.apache.log4j.PatternLayout">
+      <param name="ConversionPattern" value="%-5p %-4t %-20.20c{1} %m%n"/>
+    </layout>
+  </appender>
+
+  <appender name="LogFile" class="org.apache.log4j.DailyRollingFileAppender">
+    <param name="File" value="logs/mangotiger.log"/>
+    <param name="DatePattern" value="'.'yyyy-MM-dd-HH"/>
+    <layout class="org.apache.log4j.PatternLayout">
+      <param name="ConversionPattern" value="%d{ISO8601} [%t] %-5p %-30.30c{2} %x - %m %n"/>
+    </layout>
+  </appender>
+
+  <category name="org">
+    <priority value="warn"/>
+  </category>
+
+  <category name="mangotiger">
+    <priority value="debug"/>
+  </category>
+
+  <root>
+    <priority value="debug"/>
+    <appender-ref ref="Console"/>
+    <appender-ref ref="LogFile"/>
+  </root>
+
+</log4j:configuration>

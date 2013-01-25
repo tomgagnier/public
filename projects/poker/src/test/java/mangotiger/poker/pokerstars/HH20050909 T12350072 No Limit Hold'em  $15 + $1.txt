@@ -1,0 +1,1616 @@
+PokerStars Game #2536099886: Tournament #12350072, Hold'em No Limit - Level III (25/50) - 2005/09/09 - 16:23:44 (ET)
+Table '12350072 2' Seat #1 is the button
+Seat 1: mangotiger (1380 in chips)
+Seat 2: PokesOSU (3685 in chips)
+Seat 3: martin23b (1280 in chips)
+Seat 4: supr199 (3005 in chips) is sitting out
+Seat 6: simplye (1815 in chips)
+Seat 8: Aranzabal (2315 in chips)
+Seat 9: Big Guy77 (1500 in chips)
+PokesOSU: posts small blind 25
+martin23b: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mangotiger [2s Qh]
+supr199: folds
+simplye: folds
+Aranzabal: folds
+Big Guy77: calls 50
+mangotiger: folds
+PokesOSU: calls 25
+martin23b: checks
+*** FLOP *** [Tc 3h 7h]
+PokesOSU: checks
+martin23b: checks
+Big Guy77: bets 150
+PokesOSU: folds
+martin23b: folds
+Big Guy77 collected 150 from pot
+Big Guy77: doesn't show hand
+*** SUMMARY ***
+Total pot 150 | Rake 0
+Board [Tc 3h 7h]
+Seat 1: mangotiger (button) folded before Flop (didn't bet)
+Seat 2: PokesOSU (small blind) folded on the Flop
+Seat 3: martin23b (big blind) folded on the Flop
+Seat 4: supr199 folded before Flop (didn't bet)
+Seat 6: simplye folded before Flop (didn't bet)
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 collected (150)
+
+
+
+PokerStars Game #2536104799: Tournament #12350072, Hold'em No Limit - Level IV (50/100) - 2005/09/09 - 16:24:30 (ET)
+Table '12350072 2' Seat #2 is the button
+Seat 1: mangotiger (1380 in chips)
+Seat 2: PokesOSU (3635 in chips)
+Seat 3: martin23b (1230 in chips)
+Seat 4: supr199 (3005 in chips) is sitting out
+Seat 6: simplye (1815 in chips)
+Seat 8: Aranzabal (2315 in chips)
+Seat 9: Big Guy77 (1600 in chips)
+martin23b: posts small blind 50
+supr199: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mangotiger [8c Ah]
+simplye: folds
+Aranzabal: raises 200 to 300
+Big Guy77: calls 300
+mangotiger: folds
+PokesOSU: calls 300
+martin23b: calls 250
+supr199: folds
+*** FLOP *** [7s 4c 5h]
+martin23b: checks
+Aranzabal: bets 300
+Big Guy77: calls 300
+PokesOSU: folds
+martin23b: folds
+*** TURN *** [7s 4c 5h] [3h]
+Aranzabal: checks
+Big Guy77: bets 400
+Aranzabal: raises 400 to 800
+Big Guy77: calls 400
+*** RIVER *** [7s 4c 5h 3h] [5s]
+Aranzabal: bets 200
+Big Guy77: calls 200 and is all-in
+*** SHOW DOWN ***
+Aranzabal: shows [6s Js] (a straight, Three to Seven)
+Big Guy77: shows [3c 3d] (a full house, Threes full of Fives)
+Big Guy77 collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | Rake 0
+Board [7s 4c 5h 3h 5s]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU (button) folded on the Flop
+Seat 3: martin23b (small blind) folded on the Flop
+Seat 4: supr199 (big blind) folded before Flop
+Seat 6: simplye folded before Flop (didn't bet)
+Seat 8: Aranzabal showed [6s Js] and lost with a straight, Three to Seven
+Seat 9: Big Guy77 showed [3c 3d] and won (3900) with a full house, Threes full of Fives
+
+
+
+PokerStars Game #2536114034: Tournament #12350072, Hold'em No Limit - Level IV (50/100) - 2005/09/09 - 16:25:54 (ET)
+Table '12350072 2' Seat #3 is the button
+Seat 1: mangotiger (1380 in chips)
+Seat 2: PokesOSU (3335 in chips)
+Seat 3: martin23b (930 in chips)
+Seat 4: supr199 (2905 in chips) is sitting out
+Seat 6: simplye (1815 in chips)
+Seat 8: Aranzabal (715 in chips)
+Seat 9: Big Guy77 (3900 in chips)
+supr199: posts small blind 50
+simplye: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mangotiger [8h As]
+Aranzabal: folds
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: calls 100
+martin23b: folds
+supr199: folds
+Aranzabal said, "nice river buddy LOL"
+simplye: checks
+*** FLOP *** [6c Tc 9c]
+simplye: checks
+PokesOSU: bets 200
+simplye: folds
+PokesOSU collected 250 from pot
+PokesOSU: doesn't show hand
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Board [6c Tc 9c]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU collected (250)
+Seat 3: martin23b (button) folded before Flop (didn't bet)
+Seat 4: supr199 (small blind) folded before Flop
+Seat 6: simplye (big blind) folded on the Flop
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536118743: Tournament #12350072, Hold'em No Limit - Level IV (50/100) - 2005/09/09 - 16:26:36 (ET)
+Table '12350072 2' Seat #4 is the button
+Seat 1: mangotiger (1380 in chips)
+Seat 2: PokesOSU (3485 in chips)
+Seat 3: martin23b (930 in chips)
+Seat 4: supr199 (2855 in chips) is sitting out
+Seat 6: simplye (1715 in chips)
+Seat 8: Aranzabal (715 in chips)
+Seat 9: Big Guy77 (3900 in chips)
+simplye: posts small blind 50
+Aranzabal: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mangotiger [5c Qd]
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: folds
+martin23b: folds
+supr199: folds
+simplye: raises 700 to 800
+Aranzabal: calls 615 and is all-in
+*** FLOP *** [2d 9c 7c]
+*** TURN *** [2d 9c 7c] [Jd]
+*** RIVER *** [2d 9c 7c Jd] [3d]
+*** SHOW DOWN ***
+simplye: shows [Kh 7h] (a pair of Sevens)
+Aranzabal: shows [9h Jc] (two pair, Jacks and Nines)
+Aranzabal collected 1430 from pot
+Aranzabal said, "ty simply"
+*** SUMMARY ***
+Total pot 1430 | Rake 0
+Board [2d 9c 7c Jd 3d]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: martin23b folded before Flop (didn't bet)
+Seat 4: supr199 (button) folded before Flop (didn't bet)
+Seat 6: simplye (small blind) showed [Kh 7h] and lost with a pair of Sevens
+Seat 8: Aranzabal (big blind) showed [9h Jc] and won (1430) with two pair, Jacks and Nines
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536122950: Tournament #12350072, Hold'em No Limit - Level IV (50/100) - 2005/09/09 - 16:27:15 (ET)
+Table '12350072 2' Seat #6 is the button
+Seat 1: mangotiger (1380 in chips)
+Seat 2: PokesOSU (3485 in chips)
+Seat 3: martin23b (930 in chips)
+Seat 4: supr199 (2855 in chips) is sitting out
+Seat 6: simplye (1000 in chips)
+Seat 8: Aranzabal (1430 in chips)
+Seat 9: Big Guy77 (3900 in chips)
+Aranzabal: posts small blind 50
+Big Guy77: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mangotiger [2d 5d]
+mangotiger: folds
+PokesOSU: folds
+martin23b: folds
+supr199: folds
+simplye: folds
+Aranzabal: raises 1330 to 1430 and is all-in
+Big Guy77: folds
+Aranzabal collected 200 from pot
+Aranzabal: doesn't show hand
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: martin23b folded before Flop (didn't bet)
+Seat 4: supr199 folded before Flop (didn't bet)
+Seat 6: simplye (button) folded before Flop (didn't bet)
+Seat 8: Aranzabal (small blind) collected (200)
+Seat 9: Big Guy77 (big blind) folded before Flop
+
+
+
+PokerStars Game #2536127724: Tournament #12350072, Hold'em No Limit - Level IV (50/100) - 2005/09/09 - 16:27:58 (ET)
+Table '12350072 2' Seat #8 is the button
+Seat 1: mangotiger (1380 in chips)
+Seat 2: PokesOSU (3485 in chips)
+Seat 3: martin23b (930 in chips)
+Seat 4: supr199 (2855 in chips) is sitting out
+Seat 6: simplye (1000 in chips)
+Seat 8: Aranzabal (1530 in chips)
+Seat 9: Big Guy77 (3800 in chips)
+Big Guy77: posts small blind 50
+mangotiger: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mangotiger [2s 7c]
+PokesOSU: folds
+martin23b: calls 100
+supr199: folds
+simplye: folds
+Aranzabal: folds
+Big Guy77: calls 50
+mangotiger: checks
+*** FLOP *** [Ts 4s Jd]
+Big Guy77: checks
+mangotiger: checks
+martin23b: bets 200
+Big Guy77: folds
+mangotiger: folds
+martin23b collected 300 from pot
+supr199 is connected
+martin23b: doesn't show hand
+supr199 has returned
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Board [Ts 4s Jd]
+Seat 1: mangotiger (big blind) folded on the Flop
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: martin23b collected (300)
+Seat 4: supr199 folded before Flop (didn't bet)
+Seat 6: simplye folded before Flop (didn't bet)
+Seat 8: Aranzabal (button) folded before Flop (didn't bet)
+Seat 9: Big Guy77 (small blind) folded on the Flop
+
+
+
+PokerStars Game #2536132450: Tournament #12350072, Hold'em No Limit - Level IV (50/100) - 2005/09/09 - 16:28:42 (ET)
+Table '12350072 2' Seat #9 is the button
+Seat 1: mangotiger (1280 in chips)
+Seat 2: PokesOSU (3485 in chips)
+Seat 3: martin23b (1130 in chips)
+Seat 4: supr199 (2855 in chips)
+Seat 6: simplye (1000 in chips)
+Seat 8: Aranzabal (1530 in chips)
+Seat 9: Big Guy77 (3700 in chips)
+mangotiger: posts small blind 50
+PokesOSU: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mangotiger [5h Ks]
+martin23b: folds
+supr199: calls 100
+simplye: folds
+Aranzabal: calls 100
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: checks
+*** FLOP *** [6d 4c Ah]
+PokesOSU: checks
+supr199: checks
+Aranzabal: bets 200
+PokesOSU: folds
+supr199: folds
+Aranzabal collected 350 from pot
+Aranzabal: doesn't show hand
+*** SUMMARY ***
+Total pot 350 | Rake 0
+Board [6d 4c Ah]
+Seat 1: mangotiger (small blind) folded before Flop
+Seat 2: PokesOSU (big blind) folded on the Flop
+Seat 3: martin23b folded before Flop (didn't bet)
+Seat 4: supr199 folded on the Flop
+Seat 6: simplye folded before Flop (didn't bet)
+Seat 8: Aranzabal collected (350)
+Seat 9: Big Guy77 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536136857: Tournament #12350072, Hold'em No Limit - Level V (75/150) - 2005/09/09 - 16:29:22 (ET)
+Table '12350072 2' Seat #1 is the button
+Seat 1: mangotiger (1230 in chips)
+Seat 2: PokesOSU (3385 in chips)
+Seat 3: martin23b (1130 in chips)
+Seat 4: supr199 (2755 in chips)
+Seat 6: simplye (1000 in chips)
+Seat 8: Aranzabal (1780 in chips)
+Seat 9: Big Guy77 (3700 in chips)
+PokesOSU: posts small blind 75
+martin23b: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mangotiger [9c Qd]
+supr199: folds
+simplye: folds
+Aranzabal: raises 300 to 450
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: calls 375
+martin23b: folds
+*** FLOP *** [Ts 2c 5d]
+PokesOSU: bets 600
+Aranzabal: raises 600 to 1200
+PokesOSU: calls 600
+*** TURN *** [Ts 2c 5d] [3d]
+PokesOSU: bets 150
+Aranzabal: calls 130 and is all-in
+*** RIVER *** [Ts 2c 5d 3d] [Qs]
+*** SHOW DOWN ***
+PokesOSU: shows [Js Tc] (a pair of Tens)
+Aranzabal: shows [Qh Qc] (three of a kind, Queens)
+Aranzabal collected 3710 from pot
+*** SUMMARY ***
+Total pot 3710 | Rake 0
+Board [Ts 2c 5d 3d Qs]
+Seat 1: mangotiger (button) folded before Flop (didn't bet)
+Seat 2: PokesOSU (small blind) showed [Js Tc] and lost with a pair of Tens
+Seat 3: martin23b (big blind) folded before Flop
+Seat 4: supr199 folded before Flop (didn't bet)
+Seat 6: simplye folded before Flop (didn't bet)
+Seat 8: Aranzabal showed [Qh Qc] and won (3710) with three of a kind, Queens
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536143477: Tournament #12350072, Hold'em No Limit - Level V (75/150) - 2005/09/09 - 16:30:16 (ET)
+Table '12350072 2' Seat #2 is the button
+Seat 1: mangotiger (1230 in chips)
+Seat 2: PokesOSU (1605 in chips)
+Seat 3: martin23b (980 in chips)
+Seat 4: supr199 (2755 in chips)
+Seat 6: simplye (1000 in chips)
+Seat 8: Aranzabal (3710 in chips)
+Seat 9: Big Guy77 (3700 in chips)
+martin23b: posts small blind 75
+supr199: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mangotiger [2c 6d]
+simplye: folds
+Aranzabal: folds
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: calls 150
+martin23b: calls 75
+supr199: checks
+*** FLOP *** [Kc 8d 7d]
+martin23b: checks
+supr199: checks
+PokesOSU: bets 300
+martin23b: folds
+supr199: folds
+PokesOSU collected 450 from pot
+PokesOSU: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Kc 8d 7d]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU (button) collected (450)
+Seat 3: martin23b (small blind) folded on the Flop
+Seat 4: supr199 (big blind) folded on the Flop
+Seat 6: simplye folded before Flop (didn't bet)
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536146781: Tournament #12350072, Hold'em No Limit - Level V (75/150) - 2005/09/09 - 16:30:45 (ET)
+Table '12350072 2' Seat #3 is the button
+Seat 1: mangotiger (1230 in chips)
+Seat 2: PokesOSU (1905 in chips)
+Seat 3: martin23b (830 in chips)
+Seat 4: supr199 (2605 in chips)
+Seat 6: simplye (1000 in chips)
+Seat 8: Aranzabal (3710 in chips)
+Seat 9: Big Guy77 (3700 in chips)
+supr199: posts small blind 75
+simplye: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mangotiger [Ac 6h]
+Aranzabal: folds
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: calls 150
+martin23b: folds
+supr199: calls 75
+simplye: checks
+*** FLOP *** [6c 2s 8h]
+supr199: checks
+simplye: checks
+PokesOSU: bets 300
+supr199: folds
+simplye: folds
+PokesOSU collected 450 from pot
+PokesOSU: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [6c 2s 8h]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU collected (450)
+Seat 3: martin23b (button) folded before Flop (didn't bet)
+Seat 4: supr199 (small blind) folded on the Flop
+Seat 6: simplye (big blind) folded on the Flop
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536152711: Tournament #12350072, Hold'em No Limit - Level V (75/150) - 2005/09/09 - 16:31:35 (ET)
+Table '12350072 2' Seat #4 is the button
+Seat 1: mangotiger (1230 in chips)
+Seat 2: PokesOSU (2205 in chips)
+Seat 3: martin23b (830 in chips)
+Seat 4: supr199 (2455 in chips)
+Seat 6: simplye (850 in chips)
+Seat 8: Aranzabal (3710 in chips)
+Seat 9: Big Guy77 (3700 in chips)
+simplye: posts small blind 75
+Aranzabal: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mangotiger [5c 9h]
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: folds
+martin23b: folds
+supr199: folds
+simplye: raises 700 to 850 and is all-in
+Aranzabal: folds
+simplye collected 300 from pot
+simplye: doesn't show hand
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: martin23b folded before Flop (didn't bet)
+Seat 4: supr199 (button) folded before Flop (didn't bet)
+Seat 6: simplye (small blind) collected (300)
+Seat 8: Aranzabal (big blind) folded before Flop
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536156170: Tournament #12350072, Hold'em No Limit - Level V (75/150) - 2005/09/09 - 16:32:04 (ET)
+Table '12350072 2' Seat #6 is the button
+Seat 1: mangotiger (1230 in chips)
+Seat 2: PokesOSU (2205 in chips)
+Seat 3: martin23b (830 in chips)
+Seat 4: supr199 (2455 in chips)
+Seat 6: simplye (1000 in chips)
+Seat 8: Aranzabal (3560 in chips)
+Seat 9: Big Guy77 (3700 in chips)
+Aranzabal: posts small blind 75
+Big Guy77: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mangotiger [8c 7c]
+mangotiger: folds
+PokesOSU: raises 150 to 300
+martin23b: folds
+supr199: calls 300
+simplye: raises 700 to 1000 and is all-in
+Aranzabal: folds
+Big Guy77: folds
+PokesOSU: calls 700
+supr199: calls 700
+*** FLOP *** [Qs 2c Ts]
+PokesOSU: checks
+supr199: bets 1455 and is all-in
+PokesOSU: calls 1205 and is all-in
+*** TURN *** [Qs 2c Ts] [6s]
+*** RIVER *** [Qs 2c Ts 6s] [Js]
+*** SHOW DOWN ***
+PokesOSU: shows [Qh Ah] (a pair of Queens)
+supr199: shows [Th Ad] (a pair of Tens)
+PokesOSU collected 2410 from side pot
+simplye: shows [Kc As] (a flush, Ace high)
+simplye collected 3225 from main pot
+*** SUMMARY ***
+Total pot 5635 Main pot 3225. Side pot 2410. | Rake 0
+Board [Qs 2c Ts 6s Js]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU showed [Qh Ah] and won (2410) with a pair of Queens
+Seat 3: martin23b folded before Flop (didn't bet)
+Seat 4: supr199 showed [Th Ad] and lost with a pair of Tens
+Seat 6: simplye (button) showed [Kc As] and won (3225) with a flush, Ace high
+Seat 8: Aranzabal (small blind) folded before Flop
+Seat 9: Big Guy77 (big blind) folded before Flop
+
+
+
+PokerStars Game #2536164154: Tournament #12350072, Hold'em No Limit - Level V (75/150) - 2005/09/09 - 16:33:10 (ET)
+Table '12350072 2' Seat #8 is the button
+Seat 1: mangotiger (1230 in chips)
+Seat 2: PokesOSU (2410 in chips)
+Seat 3: martin23b (830 in chips)
+Seat 4: supr199 (250 in chips)
+Seat 6: simplye (3225 in chips)
+Seat 8: Aranzabal (3485 in chips)
+Seat 9: Big Guy77 (3550 in chips)
+Big Guy77: posts small blind 75
+mangotiger: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mangotiger [2s Qc]
+PokesOSU: folds
+martin23b: folds
+supr199: folds
+simplye: folds
+Aranzabal: raises 300 to 450
+Big Guy77: folds
+mangotiger: folds
+Aranzabal collected 375 from pot
+Aranzabal: doesn't show hand
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: mangotiger (big blind) folded before Flop
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: martin23b folded before Flop (didn't bet)
+Seat 4: supr199 folded before Flop (didn't bet)
+Seat 6: simplye folded before Flop (didn't bet)
+Seat 8: Aranzabal (button) collected (375)
+Seat 9: Big Guy77 (small blind) folded before Flop
+
+
+
+PokerStars Game #2536166963: Tournament #12350072, Hold'em No Limit - Level V (75/150) - 2005/09/09 - 16:33:34 (ET)
+Table '12350072 2' Seat #9 is the button
+Seat 1: mangotiger (1080 in chips)
+Seat 2: PokesOSU (2410 in chips)
+Seat 3: martin23b (830 in chips)
+Seat 4: supr199 (250 in chips)
+Seat 6: simplye (3225 in chips)
+Seat 8: Aranzabal (3710 in chips)
+Seat 9: Big Guy77 (3475 in chips)
+mangotiger: posts small blind 75
+PokesOSU: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mangotiger [Ac 6c]
+martin23b: folds
+supr199: folds
+simplye: folds
+Aranzabal: folds
+Big Guy77: folds
+mangotiger: raises 150 to 300
+PokesOSU: calls 150
+*** FLOP *** [2s 9c Kh]
+mangotiger: bets 300
+PokesOSU: folds
+mangotiger collected 600 from pot
+mangotiger: doesn't show hand
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [2s 9c Kh]
+Seat 1: mangotiger (small blind) collected (600)
+Seat 2: PokesOSU (big blind) folded on the Flop
+Seat 3: martin23b folded before Flop (didn't bet)
+Seat 4: supr199 folded before Flop (didn't bet)
+Seat 6: simplye folded before Flop (didn't bet)
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536170630: Tournament #12350072, Hold'em No Limit - Level V (75/150) - 2005/09/09 - 16:34:05 (ET)
+Table '12350072 2' Seat #1 is the button
+Seat 1: mangotiger (1380 in chips)
+Seat 2: PokesOSU (2110 in chips)
+Seat 3: martin23b (830 in chips)
+Seat 4: supr199 (250 in chips)
+Seat 8: Aranzabal (3710 in chips)
+Seat 9: Big Guy77 (3475 in chips)
+PokesOSU: posts small blind 75
+martin23b: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mangotiger [4d 3s]
+supr199: raises 100 to 250 and is all-in
+Aranzabal: folds
+Big Guy77: calls 250
+mangotiger: folds
+PokesOSU: calls 175
+martin23b: calls 100
+*** FLOP *** [9d Jd 3c]
+PokesOSU: checks
+martin23b: checks
+Big Guy77: bets 600
+PokesOSU: folds
+martin23b: folds
+*** TURN *** [9d Jd 3c] [4h]
+*** RIVER *** [9d Jd 3c 4h] [Jc]
+*** SHOW DOWN ***
+supr199: shows [2d 2c] (two pair, Jacks and Deuces)
+Big Guy77: shows [9s Kd] (two pair, Jacks and Nines)
+Big Guy77 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0
+Board [9d Jd 3c 4h Jc]
+Seat 1: mangotiger (button) folded before Flop (didn't bet)
+Seat 2: PokesOSU (small blind) folded on the Flop
+Seat 3: martin23b (big blind) folded on the Flop
+Seat 4: supr199 showed [2d 2c] and lost with two pair, Jacks and Deuces
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 showed [9s Kd] and won (1000) with two pair, Jacks and Nines
+
+
+
+PokerStars Game #2536176646: Tournament #12350072, Hold'em No Limit - Level VI (100/200) - 2005/09/09 - 16:34:56 (ET)
+Table '12350072 2' Seat #2 is the button
+Seat 1: mangotiger (1380 in chips)
+Seat 2: PokesOSU (1860 in chips)
+Seat 3: martin23b (580 in chips)
+Seat 8: Aranzabal (3710 in chips)
+Seat 9: Big Guy77 (4225 in chips)
+martin23b: posts small blind 100
+Aranzabal: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [Qs Js]
+Big Guy77: folds
+mangotiger: raises 400 to 600
+PokesOSU: folds
+martin23b: folds
+Aranzabal: folds
+mangotiger collected 500 from pot
+mangotiger: doesn't show hand
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Seat 1: mangotiger collected (500)
+Seat 2: PokesOSU (button) folded before Flop (didn't bet)
+Seat 3: martin23b (small blind) folded before Flop
+Seat 8: Aranzabal (big blind) folded before Flop
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536179669: Tournament #12350072, Hold'em No Limit - Level VI (100/200) - 2005/09/09 - 16:35:21 (ET)
+Table '12350072 2' Seat #3 is the button
+Seat 1: mangotiger (1680 in chips)
+Seat 2: PokesOSU (1860 in chips)
+Seat 3: martin23b (480 in chips)
+Seat 8: Aranzabal (3510 in chips)
+Seat 9: Big Guy77 (4225 in chips)
+Aranzabal: posts small blind 100
+Big Guy77: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [6h Js]
+mangotiger: folds
+PokesOSU: folds
+martin23b: folds
+Aranzabal: raises 600 to 800
+Big Guy77: calls 600
+*** FLOP *** [2h 5d Ac]
+Aranzabal: bets 400
+Big Guy77: folds
+Aranzabal collected 1600 from pot
+Aranzabal: doesn't show hand
+*** SUMMARY ***
+Total pot 1600 | Rake 0
+Board [2h 5d Ac]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: martin23b (button) folded before Flop (didn't bet)
+Seat 8: Aranzabal (small blind) collected (1600)
+Seat 9: Big Guy77 (big blind) folded on the Flop
+
+
+
+PokerStars Game #2536183611: Tournament #12350072, Hold'em No Limit - Level VI (100/200) - 2005/09/09 - 16:35:54 (ET)
+Table '12350072 2' Seat #8 is the button
+Seat 1: mangotiger (1680 in chips)
+Seat 2: PokesOSU (1860 in chips)
+Seat 3: martin23b (480 in chips)
+Seat 8: Aranzabal (4310 in chips)
+Seat 9: Big Guy77 (3425 in chips)
+Big Guy77: posts small blind 100
+mangotiger: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [Qc 7c]
+PokesOSU: raises 200 to 400
+martin23b: folds
+Aranzabal: folds
+Big Guy77: folds
+mangotiger: folds
+PokesOSU collected 500 from pot
+PokesOSU: doesn't show hand
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Seat 1: mangotiger (big blind) folded before Flop
+Seat 2: PokesOSU collected (500)
+Seat 3: martin23b folded before Flop (didn't bet)
+Seat 8: Aranzabal (button) folded before Flop (didn't bet)
+Seat 9: Big Guy77 (small blind) folded before Flop
+
+
+
+PokerStars Game #2536186059: Tournament #12350072, Hold'em No Limit - Level VI (100/200) - 2005/09/09 - 16:36:15 (ET)
+Table '12350072 2' Seat #9 is the button
+Seat 1: mangotiger (1480 in chips)
+Seat 2: PokesOSU (2160 in chips)
+Seat 3: martin23b (480 in chips)
+Seat 8: Aranzabal (4310 in chips)
+Seat 9: Big Guy77 (3325 in chips)
+mangotiger: posts small blind 100
+PokesOSU: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [6s 4s]
+martin23b: raises 280 to 480 and is all-in
+Aranzabal: raises 280 to 760
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: folds
+*** FLOP *** [5s 7c Jc]
+*** TURN *** [5s 7c Jc] [9s]
+*** RIVER *** [5s 7c Jc 9s] [4h]
+*** SHOW DOWN ***
+martin23b: shows [Ad Kc] (high card Ace)
+Aranzabal: shows [Tc Jh] (a pair of Jacks)
+Aranzabal collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | Rake 0
+Board [5s 7c Jc 9s 4h]
+Seat 1: mangotiger (small blind) folded before Flop
+Seat 2: PokesOSU (big blind) folded before Flop
+Seat 3: martin23b showed [Ad Kc] and lost with high card Ace
+Seat 8: Aranzabal showed [Tc Jh] and won (1260) with a pair of Jacks
+Seat 9: Big Guy77 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536190170: Tournament #12350072, Hold'em No Limit - Level VI (100/200) - 2005/09/09 - 16:36:49 (ET)
+Table '12350072 2' Seat #1 is the button
+Seat 1: mangotiger (1380 in chips)
+Seat 2: PokesOSU (1960 in chips)
+Seat 8: Aranzabal (5090 in chips)
+Seat 9: Big Guy77 (3325 in chips)
+PokesOSU: posts small blind 100
+Aranzabal: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [Th 5c]
+Big Guy77: folds
+Kanman17 is connected
+mangotiger: folds
+PokesOSU: raises 400 to 600
+Aranzabal: folds
+PokesOSU collected 400 from pot
+PokesOSU: doesn't show hand
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Seat 1: mangotiger (button) folded before Flop (didn't bet)
+Seat 2: PokesOSU (small blind) collected (400)
+Seat 8: Aranzabal (big blind) folded before Flop
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536194913: Tournament #12350072, Hold'em No Limit - Level VI (100/200) - 2005/09/09 - 16:37:30 (ET)
+Table '12350072 2' Seat #2 is the button
+Seat 1: mangotiger (1380 in chips)
+Seat 2: PokesOSU (2160 in chips)
+Seat 3: Kanman17 (3010 in chips) out of hand (moved from another table into small blind)
+Seat 8: Aranzabal (4890 in chips)
+Seat 9: Big Guy77 (3325 in chips)
+Aranzabal: posts small blind 100
+Big Guy77: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [6d 2s]
+mangotiger: folds
+PokesOSU: raises 200 to 400
+Aranzabal: folds
+Big Guy77: folds
+PokesOSU collected 500 from pot
+PokesOSU: doesn't show hand
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU (button) collected (500)
+Seat 8: Aranzabal (small blind) folded before Flop
+Seat 9: Big Guy77 (big blind) folded before Flop
+
+
+
+PokerStars Game #2536198345: Tournament #12350072, Hold'em No Limit - Level VI (100/200) - 2005/09/09 - 16:37:59 (ET)
+Table '12350072 2' Seat #8 is the button
+Seat 1: mangotiger (1380 in chips)
+Seat 2: PokesOSU (2460 in chips)
+Seat 3: Kanman17 (3010 in chips)
+Seat 8: Aranzabal (4790 in chips)
+Seat 9: Big Guy77 (3125 in chips)
+Big Guy77: posts small blind 100
+mangotiger: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [6s Ks]
+PokesOSU: calls 200
+Kanman17: folds
+Aranzabal: folds
+Big Guy77: calls 100
+mangotiger: checks
+*** FLOP *** [3c 8h Kd]
+Big Guy77: bets 400
+mangotiger: raises 780 to 1180 and is all-in
+PokesOSU: folds
+Big Guy77: folds
+mangotiger collected 1400 from pot
+mangotiger: doesn't show hand
+*** SUMMARY ***
+Total pot 1400 | Rake 0
+Board [3c 8h Kd]
+Seat 1: mangotiger (big blind) collected (1400)
+Seat 2: PokesOSU folded on the Flop
+Seat 3: Kanman17 folded before Flop (didn't bet)
+Seat 8: Aranzabal (button) folded before Flop (didn't bet)
+Seat 9: Big Guy77 (small blind) folded on the Flop
+
+
+
+PokerStars Game #2536201700: Tournament #12350072, Hold'em No Limit - Level VI (100/200) - 2005/09/09 - 16:38:28 (ET)
+Table '12350072 2' Seat #9 is the button
+Seat 1: mangotiger (2180 in chips)
+Seat 2: PokesOSU (2260 in chips)
+Seat 3: Kanman17 (3010 in chips)
+Seat 8: Aranzabal (4790 in chips)
+Seat 9: Big Guy77 (2525 in chips)
+mangotiger: posts small blind 100
+PokesOSU: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [5s As]
+Kanman17: folds
+Aranzabal: raises 400 to 600
+Big Guy77: raises 1925 to 2525 and is all-in
+mangotiger: folds
+PokesOSU: folds
+Aranzabal: folds
+Big Guy77 collected 1500 from pot
+Big Guy77: doesn't show hand
+*** SUMMARY ***
+Total pot 1500 | Rake 0
+Seat 1: mangotiger (small blind) folded before Flop
+Seat 2: PokesOSU (big blind) folded before Flop
+Seat 3: Kanman17 folded before Flop (didn't bet)
+Seat 8: Aranzabal folded before Flop
+Seat 9: Big Guy77 (button) collected (1500)
+
+
+
+PokerStars Game #2536209629: Tournament #12350072, Hold'em No Limit - Level VII (100/200) - 2005/09/09 - 16:39:35 (ET)
+Table '12350072 2' Seat #1 is the button
+Seat 1: mangotiger (2080 in chips)
+Seat 2: PokesOSU (2060 in chips)
+Seat 3: Kanman17 (3010 in chips)
+Seat 8: Aranzabal (4190 in chips)
+Seat 9: Big Guy77 (3425 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+PokesOSU: posts small blind 100
+Kanman17: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [9s 4h]
+Aranzabal: raises 200 to 400
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: folds
+Kanman17: calls 200
+*** FLOP *** [7h 7c 7d]
+Kanman17: checks
+Aranzabal: bets 600
+Pistol Jack is connected
+ke-turnaus is connected
+simplye is connected
+fiat600 is connected
+Kanman17: folds
+Aranzabal collected 1025 from pot
+Aranzabal: doesn't show hand
+*** SUMMARY ***
+Total pot 1025 | Rake 0
+Board [7h 7c 7d]
+Seat 1: mangotiger (button) folded before Flop (didn't bet)
+Seat 2: PokesOSU (small blind) folded before Flop
+Seat 3: Kanman17 (big blind) folded on the Flop
+Seat 8: Aranzabal collected (1025)
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536213834: Tournament #12350072, Hold'em No Limit - Level VII (100/200) - 2005/09/09 - 16:40:11 (ET)
+Table '12350072 2' Seat #2 is the button
+Seat 1: mangotiger (2055 in chips)
+Seat 2: PokesOSU (1935 in chips)
+Seat 3: Kanman17 (2585 in chips)
+Seat 4: Pistol Jack (4815 in chips)
+Seat 5: simplye (3200 in chips)
+Seat 6: fiat600 (1305 in chips)
+Seat 7: ke-turnaus (2915 in chips)
+Seat 8: Aranzabal (4790 in chips)
+Seat 9: Big Guy77 (3400 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+Kanman17: posts small blind 100
+Pistol Jack: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [Qd 9d]
+simplye: folds
+fiat600: folds
+ke-turnaus: folds
+Aranzabal: folds
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: folds
+Kanman17: raises 200 to 400
+Pistol Jack: calls 200
+*** FLOP *** [4s Ks 4c]
+Kanman17: bets 400
+Pistol Jack: folds
+Kanman17 collected 1025 from pot
+Kanman17: doesn't show hand
+*** SUMMARY ***
+Total pot 1025 | Rake 0
+Board [4s Ks 4c]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU (button) folded before Flop (didn't bet)
+Seat 3: Kanman17 (small blind) collected (1025)
+Seat 4: Pistol Jack (big blind) folded on the Flop
+Seat 5: simplye folded before Flop (didn't bet)
+Seat 6: fiat600 folded before Flop (didn't bet)
+Seat 7: ke-turnaus folded before Flop (didn't bet)
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536219114: Tournament #12350072, Hold'em No Limit - Level VII (100/200) - 2005/09/09 - 16:40:57 (ET)
+Table '12350072 2' Seat #3 is the button
+Seat 1: mangotiger (2030 in chips)
+Seat 2: PokesOSU (1910 in chips)
+Seat 3: Kanman17 (3185 in chips)
+Seat 4: Pistol Jack (4390 in chips)
+Seat 5: simplye (3175 in chips)
+Seat 6: fiat600 (1280 in chips)
+Seat 7: ke-turnaus (2890 in chips)
+Seat 8: Aranzabal (4765 in chips)
+Seat 9: Big Guy77 (3375 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+Pistol Jack: posts small blind 100
+simplye: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [3c 3s]
+fiat600: folds
+ke-turnaus: raises 400 to 600
+Aranzabal: folds
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: folds
+Kanman17: folds
+Pistol Jack: folds
+simplye: folds
+ke-turnaus collected 725 from pot
+ke-turnaus: shows [Th Td] (a pair of Tens)
+*** SUMMARY ***
+Total pot 725 | Rake 0
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: Kanman17 (button) folded before Flop (didn't bet)
+Seat 4: Pistol Jack (small blind) folded before Flop
+Seat 5: simplye (big blind) folded before Flop
+Seat 6: fiat600 folded before Flop (didn't bet)
+Seat 7: ke-turnaus collected (725)
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536223128: Tournament #12350072, Hold'em No Limit - Level VII (100/200) - 2005/09/09 - 16:41:31 (ET)
+Table '12350072 2' Seat #4 is the button
+Seat 1: mangotiger (2005 in chips)
+Seat 2: PokesOSU (1885 in chips)
+Seat 3: Kanman17 (3160 in chips)
+Seat 4: Pistol Jack (4265 in chips)
+Seat 5: simplye (2950 in chips)
+Seat 6: fiat600 (1255 in chips)
+Seat 7: ke-turnaus (3390 in chips)
+Seat 8: Aranzabal (4740 in chips)
+Seat 9: Big Guy77 (3350 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+simplye: posts small blind 100
+fiat600: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [2d 8s]
+ke-turnaus: raises 200 to 400
+Aranzabal: folds
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: folds
+Kanman17: folds
+Pistol Jack: folds
+simplye: folds
+fiat600: folds
+ke-turnaus collected 725 from pot
+ke-turnaus: shows [Kh Ah] (high card Ace)
+*** SUMMARY ***
+Total pot 725 | Rake 0
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: Kanman17 folded before Flop (didn't bet)
+Seat 4: Pistol Jack (button) folded before Flop (didn't bet)
+Seat 5: simplye (small blind) folded before Flop
+Seat 6: fiat600 (big blind) folded before Flop
+Seat 7: ke-turnaus collected (725)
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536225822: Tournament #12350072, Hold'em No Limit - Level VII (100/200) - 2005/09/09 - 16:41:55 (ET)
+Table '12350072 2' Seat #5 is the button
+Seat 1: mangotiger (1980 in chips)
+Seat 2: PokesOSU (1860 in chips)
+Seat 3: Kanman17 (3135 in chips)
+Seat 4: Pistol Jack (4240 in chips)
+Seat 5: simplye (2825 in chips)
+Seat 6: fiat600 (1030 in chips)
+Seat 7: ke-turnaus (3890 in chips)
+Seat 8: Aranzabal (4715 in chips)
+Seat 9: Big Guy77 (3325 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+fiat600: posts small blind 100
+ke-turnaus: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [8s Ac]
+Aranzabal: folds
+Big Guy77: calls 200
+mangotiger: folds
+PokesOSU: folds
+Kanman17: folds
+Pistol Jack: folds
+simplye: folds
+fiat600: folds
+ke-turnaus: checks
+*** FLOP *** [Kc 7d Ks]
+ke-turnaus: checks
+Big Guy77: bets 400
+ke-turnaus: folds
+Big Guy77 collected 725 from pot
+Big Guy77: doesn't show hand
+*** SUMMARY ***
+Total pot 725 | Rake 0
+Board [Kc 7d Ks]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: Kanman17 folded before Flop (didn't bet)
+Seat 4: Pistol Jack folded before Flop (didn't bet)
+Seat 5: simplye (button) folded before Flop (didn't bet)
+Seat 6: fiat600 (small blind) folded before Flop
+Seat 7: ke-turnaus (big blind) folded on the Flop
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 collected (725)
+
+
+
+PokerStars Game #2536229994: Tournament #12350072, Hold'em No Limit - Level VII (100/200) - 2005/09/09 - 16:42:31 (ET)
+Table '12350072 2' Seat #6 is the button
+Seat 1: mangotiger (1955 in chips)
+Seat 2: PokesOSU (1835 in chips)
+Seat 3: Kanman17 (3110 in chips)
+Seat 4: Pistol Jack (4215 in chips)
+Seat 5: simplye (2800 in chips)
+Seat 6: fiat600 (905 in chips)
+Seat 7: ke-turnaus (3665 in chips)
+Seat 8: Aranzabal (4690 in chips)
+Seat 9: Big Guy77 (3825 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+ke-turnaus: posts small blind 100
+Aranzabal: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [7h Ks]
+Big Guy77: raises 400 to 600
+mangotiger: folds
+PokesOSU: folds
+Kanman17: folds
+Pistol Jack: folds
+simplye: folds
+fiat600: calls 600
+ke-turnaus: folds
+Aranzabal: folds
+*** FLOP *** [5s Tc Kh]
+Big Guy77: bets 400
+fiat600: calls 280 and is all-in
+*** TURN *** [5s Tc Kh] [7c]
+*** RIVER *** [5s Tc Kh 7c] [8c]
+*** SHOW DOWN ***
+Big Guy77: shows [3s 3d] (a pair of Threes)
+fiat600: shows [8d Ac] (a pair of Eights)
+fiat600 collected 2285 from pot
+*** SUMMARY ***
+Total pot 2285 | Rake 0
+Board [5s Tc Kh 7c 8c]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: Kanman17 folded before Flop (didn't bet)
+Seat 4: Pistol Jack folded before Flop (didn't bet)
+Seat 5: simplye folded before Flop (didn't bet)
+Seat 6: fiat600 (button) showed [8d Ac] and won (2285) with a pair of Eights
+Seat 7: ke-turnaus (small blind) folded before Flop
+Seat 8: Aranzabal (big blind) folded before Flop
+Seat 9: Big Guy77 showed [3s 3d] and lost with a pair of Threes
+
+
+
+PokerStars Game #2536237013: Tournament #12350072, Hold'em No Limit - Level VII (100/200) - 2005/09/09 - 16:43:31 (ET)
+Table '12350072 2' Seat #7 is the button
+Seat 1: mangotiger (1930 in chips)
+Seat 2: PokesOSU (1810 in chips)
+Seat 3: Kanman17 (3085 in chips)
+Seat 4: Pistol Jack (4190 in chips)
+Seat 5: simplye (2775 in chips)
+Seat 6: fiat600 (2285 in chips)
+Seat 7: ke-turnaus (3540 in chips)
+Seat 8: Aranzabal (4465 in chips)
+Seat 9: Big Guy77 (2920 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+Aranzabal: posts small blind 100
+Big Guy77: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [9s Ad]
+mangotiger: folds
+PokesOSU: folds
+Kanman17: folds
+Pistol Jack: folds
+simplye: folds
+fiat600: raises 200 to 400
+ke-turnaus: folds
+Aranzabal: folds
+Big Guy77: calls 200
+*** FLOP *** [4d 6h 3c]
+Big Guy77: checks
+fiat600: bets 400
+Big Guy77: calls 400
+*** TURN *** [4d 6h 3c] [Js]
+Big Guy77: checks
+fiat600: bets 400
+Big Guy77: folds
+fiat600 collected 1925 from pot
+fiat600: doesn't show hand
+*** SUMMARY ***
+Total pot 1925 | Rake 0
+Board [4d 6h 3c Js]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: Kanman17 folded before Flop (didn't bet)
+Seat 4: Pistol Jack folded before Flop (didn't bet)
+Seat 5: simplye folded before Flop (didn't bet)
+Seat 6: fiat600 collected (1925)
+Seat 7: ke-turnaus (button) folded before Flop (didn't bet)
+Seat 8: Aranzabal (small blind) folded before Flop
+Seat 9: Big Guy77 (big blind) folded on the Turn
+
+
+
+PokerStars Game #2536243322: Tournament #12350072, Hold'em No Limit - Level VIII (200/400) - 2005/09/09 - 16:44:25 (ET)
+Table '12350072 2' Seat #8 is the button
+Seat 1: mangotiger (1905 in chips)
+Seat 2: PokesOSU (1785 in chips)
+Seat 3: Kanman17 (3060 in chips)
+Seat 4: Pistol Jack (4165 in chips)
+Seat 5: simplye (2750 in chips)
+Seat 6: fiat600 (3385 in chips)
+Seat 7: ke-turnaus (3515 in chips)
+Seat 8: Aranzabal (4340 in chips)
+Seat 9: Big Guy77 (2095 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+Big Guy77: posts small blind 200
+mangotiger: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mangotiger [9c 7d]
+PokesOSU: folds
+Kanman17: folds
+Pistol Jack: folds
+simplye: folds
+fiat600: calls 400
+ke-turnaus: folds
+Aranzabal: folds
+Big Guy77: folds
+mangotiger: checks
+*** FLOP *** [4s 2s Qc]
+mangotiger: checks
+fiat600: bets 800
+mangotiger: folds
+fiat600 collected 1225 from pot
+fiat600: doesn't show hand
+*** SUMMARY ***
+Total pot 1225 | Rake 0
+Board [4s 2s Qc]
+Seat 1: mangotiger (big blind) folded on the Flop
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: Kanman17 folded before Flop (didn't bet)
+Seat 4: Pistol Jack folded before Flop (didn't bet)
+Seat 5: simplye folded before Flop (didn't bet)
+Seat 6: fiat600 collected (1225)
+Seat 7: ke-turnaus folded before Flop (didn't bet)
+Seat 8: Aranzabal (button) folded before Flop (didn't bet)
+Seat 9: Big Guy77 (small blind) folded before Flop
+
+
+
+PokerStars Game #2536247324: Tournament #12350072, Hold'em No Limit - Level VIII (200/400) - 2005/09/09 - 16:44:59 (ET)
+Table '12350072 2' Seat #9 is the button
+Seat 1: mangotiger (1480 in chips)
+Seat 2: PokesOSU (1760 in chips)
+Seat 3: Kanman17 (3035 in chips)
+Seat 4: Pistol Jack (4140 in chips)
+Seat 5: simplye (2725 in chips)
+Seat 6: fiat600 (4185 in chips)
+Seat 7: ke-turnaus (3490 in chips)
+Seat 8: Aranzabal (4315 in chips)
+Seat 9: Big Guy77 (1870 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+mangotiger: posts small blind 200
+PokesOSU: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mangotiger [2d 8c]
+Kanman17: folds
+Pistol Jack: folds
+simplye: folds
+fiat600: folds
+ke-turnaus: folds
+Aranzabal: raises 800 to 1200
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: folds
+Aranzabal collected 1225 from pot
+Aranzabal: doesn't show hand
+*** SUMMARY ***
+Total pot 1225 | Rake 0
+Seat 1: mangotiger (small blind) folded before Flop
+Seat 2: PokesOSU (big blind) folded before Flop
+Seat 3: Kanman17 folded before Flop (didn't bet)
+Seat 4: Pistol Jack folded before Flop (didn't bet)
+Seat 5: simplye folded before Flop (didn't bet)
+Seat 6: fiat600 folded before Flop (didn't bet)
+Seat 7: ke-turnaus folded before Flop (didn't bet)
+Seat 8: Aranzabal collected (1225)
+Seat 9: Big Guy77 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536251050: Tournament #12350072, Hold'em No Limit - Level VIII (200/400) - 2005/09/09 - 16:45:32 (ET)
+Table '12350072 2' Seat #1 is the button
+Seat 1: mangotiger (1255 in chips)
+Seat 2: PokesOSU (1335 in chips)
+Seat 3: Kanman17 (3010 in chips)
+Seat 4: Pistol Jack (4115 in chips)
+Seat 5: simplye (2700 in chips)
+Seat 6: fiat600 (4160 in chips)
+Seat 7: ke-turnaus (3465 in chips)
+Seat 8: Aranzabal (5115 in chips)
+Seat 9: Big Guy77 (1845 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+PokesOSU: posts small blind 200
+Kanman17: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mangotiger [8h 5s]
+Pistol Jack: calls 400
+simplye: folds
+fiat600: folds
+ke-turnaus: folds
+Aranzabal: folds
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: calls 200
+Kanman17: checks
+*** FLOP *** [2c Tc 6d]
+PokesOSU: bets 910 and is all-in
+Kanman17: folds
+Pistol Jack: folds
+PokesOSU collected 1425 from pot
+PokesOSU: doesn't show hand
+*** SUMMARY ***
+Total pot 1425 | Rake 0
+Board [2c Tc 6d]
+Seat 1: mangotiger (button) folded before Flop (didn't bet)
+Seat 2: PokesOSU (small blind) collected (1425)
+Seat 3: Kanman17 (big blind) folded on the Flop
+Seat 4: Pistol Jack folded on the Flop
+Seat 5: simplye folded before Flop (didn't bet)
+Seat 6: fiat600 folded before Flop (didn't bet)
+Seat 7: ke-turnaus folded before Flop (didn't bet)
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536255910: Tournament #12350072, Hold'em No Limit - Level VIII (200/400) - 2005/09/09 - 16:46:13 (ET)
+Table '12350072 2' Seat #2 is the button
+Seat 1: mangotiger (1230 in chips)
+Seat 2: PokesOSU (2335 in chips)
+Seat 3: Kanman17 (2585 in chips)
+Seat 4: Pistol Jack (3690 in chips)
+Seat 5: simplye (2675 in chips)
+Seat 6: fiat600 (4135 in chips)
+Seat 7: ke-turnaus (3440 in chips)
+Seat 8: Aranzabal (5090 in chips)
+Seat 9: Big Guy77 (1820 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+Kanman17: posts small blind 200
+Pistol Jack: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mangotiger [Tc Kh]
+simplye: folds
+fiat600: raises 400 to 800
+ke-turnaus: folds
+Aranzabal: folds
+Big Guy77: folds
+mangotiger: folds
+PokesOSU: folds
+Kanman17: folds
+Pistol Jack: folds
+fiat600 collected 1225 from pot
+fiat600: shows [Qh Qs] (a pair of Queens)
+*** SUMMARY ***
+Total pot 1225 | Rake 0
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU (button) folded before Flop (didn't bet)
+Seat 3: Kanman17 (small blind) folded before Flop
+Seat 4: Pistol Jack (big blind) folded before Flop
+Seat 5: simplye folded before Flop (didn't bet)
+Seat 6: fiat600 collected (1225)
+Seat 7: ke-turnaus folded before Flop (didn't bet)
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536259020: Tournament #12350072, Hold'em No Limit - Level VIII (200/400) - 2005/09/09 - 16:46:39 (ET)
+Table '12350072 2' Seat #3 is the button
+Seat 1: mangotiger (1205 in chips)
+Seat 2: PokesOSU (2310 in chips)
+Seat 3: Kanman17 (2360 in chips)
+Seat 4: Pistol Jack (3265 in chips)
+Seat 5: simplye (2650 in chips)
+Seat 6: fiat600 (4935 in chips)
+Seat 7: ke-turnaus (3415 in chips)
+Seat 8: Aranzabal (5065 in chips)
+Seat 9: Big Guy77 (1795 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+Pistol Jack: posts small blind 200
+simplye: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mangotiger [5d Jd]
+fiat600: folds
+ke-turnaus: folds
+Aranzabal: folds
+Big Guy77: raises 1370 to 1770 and is all-in
+mangotiger: folds
+PokesOSU: folds
+Kanman17: folds
+Pistol Jack: folds
+simplye: folds
+Big Guy77 collected 1225 from pot
+Big Guy77: doesn't show hand
+*** SUMMARY ***
+Total pot 1225 | Rake 0
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU folded before Flop (didn't bet)
+Seat 3: Kanman17 (button) folded before Flop (didn't bet)
+Seat 4: Pistol Jack (small blind) folded before Flop
+Seat 5: simplye (big blind) folded before Flop
+Seat 6: fiat600 folded before Flop (didn't bet)
+Seat 7: ke-turnaus folded before Flop (didn't bet)
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 collected (1225)
+
+
+
+PokerStars Game #2536262070: Tournament #12350072, Hold'em No Limit - Level VIII (200/400) - 2005/09/09 - 16:47:05 (ET)
+Table '12350072 2' Seat #4 is the button
+Seat 1: mangotiger (1180 in chips)
+Seat 2: PokesOSU (2285 in chips)
+Seat 3: Kanman17 (2335 in chips)
+Seat 4: Pistol Jack (3040 in chips)
+Seat 5: simplye (2225 in chips)
+Seat 6: fiat600 (4910 in chips)
+Seat 7: ke-turnaus (3390 in chips)
+Seat 8: Aranzabal (5040 in chips)
+Seat 9: Big Guy77 (2595 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+simplye: posts small blind 200
+fiat600: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mangotiger [4d Jc]
+ke-turnaus: folds
+Aranzabal: folds
+Big Guy77: calls 400
+mangotiger: folds
+PokesOSU: calls 400
+Kanman17: folds
+Pistol Jack: folds
+simplye: calls 200
+fiat600: raises 800 to 1200
+Big Guy77: raises 1370 to 2570 and is all-in
+PokesOSU: calls 1860 and is all-in
+simplye: folds
+fiat600: calls 1370
+*** FLOP *** [Kc 7h Qs]
+*** TURN *** [Kc 7h Qs] [2h]
+*** RIVER *** [Kc 7h Qs 2h] [3c]
+Aranzabal said, "vnh"
+*** SHOW DOWN ***
+fiat600: shows [Ad As] (a pair of Aces)
+Big Guy77: shows [Tc Ts] (a pair of Tens)
+fiat600 collected 620 from side pot
+PokesOSU: shows [Td Kd] (a pair of Kings)
+fiat600 collected 7405 from main pot
+simplye said, "whew, had JJ"
+*** SUMMARY ***
+Total pot 8025 Main pot 7405. Side pot 620. | Rake 0
+Board [Kc 7h Qs 2h 3c]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU showed [Td Kd] and lost with a pair of Kings
+Seat 3: Kanman17 folded before Flop (didn't bet)
+Seat 4: Pistol Jack (button) folded before Flop (didn't bet)
+Seat 5: simplye (small blind) folded before Flop
+Seat 6: fiat600 (big blind) showed [Ad As] and won (8025) with a pair of Aces
+Seat 7: ke-turnaus folded before Flop (didn't bet)
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 showed [Tc Ts] and lost with a pair of Tens
+
+
+
+PokerStars Game #2536269581: Tournament #12350072, Hold'em No Limit - Level VIII (200/400) - 2005/09/09 - 16:48:09 (ET)
+Table '12350072 2' Seat #5 is the button
+Seat 1: mangotiger (1155 in chips)
+Seat 3: Kanman17 (2310 in chips)
+Seat 4: Pistol Jack (3015 in chips)
+Seat 5: simplye (1800 in chips)
+Seat 6: fiat600 (10340 in chips)
+Seat 7: ke-turnaus (3365 in chips)
+Seat 8: Aranzabal (5015 in chips)
+mangotiger: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+fiat600: posts small blind 200
+ke-turnaus: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mangotiger [8s 3d]
+Aranzabal: folds
+mangotiger: folds
+Kanman17: folds
+Pistol Jack: folds
+ke-turnaus said, "nhs"
+simplye: folds
+fiat600: folds
+ke-turnaus collected 575 from pot
+ke-turnaus: doesn't show hand
+*** SUMMARY ***
+Total pot 575 | Rake 0
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 3: Kanman17 folded before Flop (didn't bet)
+Seat 4: Pistol Jack folded before Flop (didn't bet)
+Seat 5: simplye (button) folded before Flop (didn't bet)
+Seat 6: fiat600 (small blind) folded before Flop
+Seat 7: ke-turnaus (big blind) collected (575)
+Seat 8: Aranzabal folded before Flop (didn't bet)
+
+
+
+PokerStars Game #2536272534: Tournament #12350072, Hold'em No Limit - Level VIII (200/400) - 2005/09/09 - 16:48:34 (ET)
+Table '12350072 2' Seat #6 is the button
+Seat 1: mangotiger (1130 in chips)
+Seat 3: Kanman17 (2285 in chips)
+Seat 4: Pistol Jack (2990 in chips)
+Seat 5: simplye (1775 in chips)
+Seat 6: fiat600 (10115 in chips)
+Seat 7: ke-turnaus (3715 in chips)
+Seat 8: Aranzabal (4990 in chips)
+mangotiger: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+ke-turnaus: posts small blind 200
+Aranzabal: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mangotiger [2d 4s]
+mangotiger: folds
+Kanman17: folds
+Pistol Jack: raises 400 to 800
+simplye: folds
+fiat600: folds
+ke-turnaus: folds
+Aranzabal: calls 400
+*** FLOP *** [8h Kc 9h]
+Aranzabal: bets 800
+Pistol Jack: folds
+Aranzabal collected 1975 from pot
+Aranzabal: doesn't show hand
+*** SUMMARY ***
+Total pot 1975 | Rake 0
+Board [8h Kc 9h]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 3: Kanman17 folded before Flop (didn't bet)
+Seat 4: Pistol Jack folded on the Flop
+Seat 5: simplye folded before Flop (didn't bet)
+Seat 6: fiat600 (button) folded before Flop (didn't bet)
+Seat 7: ke-turnaus (small blind) folded before Flop
+Seat 8: Aranzabal (big blind) collected (1975)
+
+
+

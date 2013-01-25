@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT local-entity-resolver (mapping*)>
+<!ELEMENT mapping (resource,(public-id|system-id)+)>
+<!ELEMENT resource (#PCDATA)>
+<!ELEMENT public-id (#PCDATA)>
+<!ELEMENT system-id (#PCDATA)>

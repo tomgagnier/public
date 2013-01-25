@@ -1,0 +1,6 @@
+-b1
+-i1 1
+-sa1 hello world
+-s1 goodnight
+arg1
+arg2

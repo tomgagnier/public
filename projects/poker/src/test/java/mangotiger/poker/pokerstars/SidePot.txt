@@ -1,0 +1,60 @@
+PokerStars Game #2536262070: Tournament #12350072, Hold'em No Limit - Level VIII (200/400) - 2005/09/09 - 16:47:05 (ET)
+Table '12350072 2' Seat #4 is the button
+Seat 1: mangotiger (1180 in chips)
+Seat 2: PokesOSU (2285 in chips)
+Seat 3: Kanman17 (2335 in chips)
+Seat 4: Pistol Jack (3040 in chips)
+Seat 5: simplye (2225 in chips)
+Seat 6: fiat600 (4910 in chips)
+Seat 7: ke-turnaus (3390 in chips)
+Seat 8: Aranzabal (5040 in chips)
+Seat 9: Big Guy77 (2595 in chips)
+mangotiger: posts the ante 25
+PokesOSU: posts the ante 25
+Kanman17: posts the ante 25
+Pistol Jack: posts the ante 25
+simplye: posts the ante 25
+fiat600: posts the ante 25
+ke-turnaus: posts the ante 25
+Aranzabal: posts the ante 25
+Big Guy77: posts the ante 25
+simplye: posts small blind 200
+fiat600: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mangotiger [4d Jc]
+ke-turnaus: folds
+Aranzabal: folds
+Big Guy77: calls 400
+mangotiger: folds
+PokesOSU: calls 400
+Kanman17: folds
+Pistol Jack: folds
+simplye: calls 200
+fiat600: raises 800 to 1200
+Big Guy77: raises 1370 to 2570 and is all-in
+PokesOSU: calls 1860 and is all-in
+simplye: folds
+fiat600: calls 1370
+*** FLOP *** [Kc 7h Qs]
+*** TURN *** [Kc 7h Qs] [2h]
+*** RIVER *** [Kc 7h Qs 2h] [3c]
+Aranzabal said, "vnh"
+*** SHOW DOWN ***
+fiat600: shows [Ad As] (a pair of Aces)
+Big Guy77: shows [Tc Ts] (a pair of Tens)
+fiat600 collected 620 from side pot
+PokesOSU: shows [Td Kd] (a pair of Kings)
+fiat600 collected 7405 from main pot
+simplye said, "whew, had JJ"
+*** SUMMARY ***
+Total pot 8025 Main pot 7405. Side pot 620. | Rake 0
+Board [Kc 7h Qs 2h 3c]
+Seat 1: mangotiger folded before Flop (didn't bet)
+Seat 2: PokesOSU showed [Td Kd] and lost with a pair of Kings
+Seat 3: Kanman17 folded before Flop (didn't bet)
+Seat 4: Pistol Jack (button) folded before Flop (didn't bet)
+Seat 5: simplye (small blind) folded before Flop
+Seat 6: fiat600 (big blind) showed [Ad As] and won (8025) with a pair of Aces
+Seat 7: ke-turnaus folded before Flop (didn't bet)
+Seat 8: Aranzabal folded before Flop (didn't bet)
+Seat 9: Big Guy77 showed [Tc Ts] and lost with a pair of Tens

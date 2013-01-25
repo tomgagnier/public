@@ -1,0 +1,25 @@
+PokerStars Game #2536176646: Tournament #12350072, Hold'em No Limit - Level VI (100/200) - 2005/09/09 - 16:34:56 (ET)
+Table '12350072 2' Seat #2 is the button
+Seat 1: mangotiger (1380 in chips)
+Seat 2: PokesOSU (1860 in chips)
+Seat 3: martin23b (580 in chips)
+Seat 8: Aranzabal (3710 in chips)
+Seat 9: Big Guy77 (4225 in chips)
+martin23b: posts small blind 100
+Aranzabal: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mangotiger [Qs Js]
+Big Guy77: folds
+mangotiger: raises 400 to 600
+PokesOSU: folds
+martin23b: folds
+Aranzabal: folds
+mangotiger collected 500 from pot
+mangotiger: doesn't show hand
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Seat 1: mangotiger collected (500)
+Seat 2: PokesOSU (button) folded before Flop (didn't bet)
+Seat 3: martin23b (small blind) folded before Flop
+Seat 8: Aranzabal (big blind) folded before Flop
+Seat 9: Big Guy77 folded before Flop (didn't bet)
