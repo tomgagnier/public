@@ -96,4 +96,12 @@ public class SimpleDataSource implements DataSource {
   private static Log log() {
     return LogFactory.getLog(SimpleDataSource.class);
   }
+
+  public <T> T unwrap(Class<T> tClass) throws SQLException {
+    return null;
+  }
+
+  public boolean isWrapperFor(Class<?> aClass) throws SQLException {
+    return false;
+  }
 }

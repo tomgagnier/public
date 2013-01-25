@@ -38,13 +38,11 @@ public final class CensorTest extends TestCase {
     censor = new Censor();
   }
 
-  /** Test banning the contents of a Big Endian input stream. */
   public void testBigEndian() throws Exception {
     initializeCensor("james-big-endian.txt");
     assertDirtyWords();
   }
 
-  /** Test banning the contents of a Little Endian input stream. */
   public void testLittleEndian() throws Exception {
     initializeCensor("james-little-endian.txt");
     assertDirtyWords();
@@ -60,7 +58,6 @@ public final class CensorTest extends TestCase {
     return getClass().getResourceAsStream(resource);
   }
 
-  /** Test the toString method. */
   public void testToString() throws IOException {
     final Censor littleEndianCensor = new Censor();
     littleEndianCensor.ban(asStream("james-little-endian.txt"));
@@ -72,7 +69,6 @@ public final class CensorTest extends TestCase {
     LOG.info(bigEndianString);
   }
 
-  /** Test editing a byte buffer. */
   public void testEditByteBuffer() throws IOException {
     initializeCensor("james-little-endian.txt");
     for (Pair aPAIRS : PAIRS) {

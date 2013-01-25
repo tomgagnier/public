@@ -14,24 +14,17 @@ import java.util.List;
 
 import junit.framework.TestCase;
 
-/**
- * Test the InputSreams class.
- * @author tom_gagnier@yahoo.com
- */
 public final class InputStreamsTest extends TestCase {
   private static final int DEMON_LOVER = 23;
 
-  /** Test the toString() method. */
   public void testToString() throws IOException {
     final InputStream is = getClass().getResourceAsStream("quotations.txt");
     assertNotNull(is);
     final String actual = InputStreams.toString(is);
-    final String expect = "The best minds are not in government. If any " + "were, business would hire them away. " +
-                          "- Ronald Reagan";
+    final String expect = "The best minds are not in government. If any were, business would hire them away. - Ronald Reagan";
     assertEquals(expect, actual);
   }
 
-  /** Test toLines(). */
   public void testToLines() throws IOException {
     final InputStream is = getClass().getResourceAsStream("kubla-khan.txt");
     assertNotNull(is);

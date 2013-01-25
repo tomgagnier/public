@@ -80,7 +80,7 @@ import mangotiger.lang.Strings;
     final String[] args = new String[]{B1, I1, "1", SA1, "hello", "world", S1, "goodnight", "arg1", "arg2"};
     cmdLine.parse(args);
     assertCorrectValues();
-    cmdLine.parse("@" + new File(Files.toFile("common-se/src/test", getClass()), "CmdLineTest.txt"));
+    cmdLine.parse("@" + new File(Files.toFile("src/test/resources", getClass()), "CmdLineTest.txt"));
     assertCorrectValues();
   }
 

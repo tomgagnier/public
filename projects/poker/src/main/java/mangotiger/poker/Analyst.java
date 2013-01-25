@@ -8,22 +8,16 @@
  */
 package mangotiger.poker;
 
-import mangotiger.poker.events.GameEnd;
-import mangotiger.poker.events.NewGame;
-import static mangotiger.time.Times.MILLISECONDS_PER_WEEK;
-import org.apache.commons.logging.Log;
-import org.apache.commons.logging.LogFactory;
-
-import java.io.File;
-import java.util.Iterator;
-import java.util.Set;
-import java.util.TreeSet;
+import java.io.*;
+import java.util.*;
+import mangotiger.poker.events.*;
+import org.apache.commons.logging.*;
 
 /** @author Tom Gagnier */
 @SuppressWarnings({"ClassWithoutToString", "PublicMethodNotExposedInInterface"})
 public class Analyst implements Runnable {
 
-  private static final long ANALYSIS_PERIOD = MILLISECONDS_PER_WEEK;
+  private static final long ANALYSIS_PERIOD = 7 * 24 * 60 * 60 * 1000;
   private final EventChannel channel;
   private final Casino casino;
   private final EventParser parser;

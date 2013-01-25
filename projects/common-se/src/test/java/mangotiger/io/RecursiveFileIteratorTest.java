@@ -22,7 +22,7 @@ import junit.framework.TestCase;
 /** @author Tom Gagnier */
 @SuppressWarnings({"ClassWithoutToString"})
 public class RecursiveFileIteratorTest extends TestCase {
-  private static final File ROOT_DIR = new File(Files.toFile("common-se/src/test", RecursiveFileIteratorTest.class), "test");
+  private static final File ROOT_DIR = new File(Files.toFile("src/test/resources", RecursiveFileIteratorTest.class), "test");
 
   private static final File TEST_DIR = new File(ROOT_DIR, "test");
   private static final File THREE_FILE = new File(ROOT_DIR, "3.txt");

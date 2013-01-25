@@ -4,19 +4,15 @@ package mangotiger.sql;
  * @author tom_gagnier@yahoo.com
  */
 
-import java.io.InputStream;
+import java.io.*;
+import mangotiger.test.*;
 
-import mangotiger.test.MTestCase;
-
-/** Test StatementIterator. */
 @SuppressWarnings({"ClassWithoutToString", "MagicNumber"})
 public final class StatementIteratorTest extends MTestCase {
-  /** Test single line input. */
   public void testSingleLine() {
     assertIteratorCount(29, newStatementIterator("single-line.sql"));
   }
 
-  /** Test multi line input. */
   public void testMultiLine() {
     assertIteratorCount(17, newStatementIterator("multi-line.sql"));
   }
@@ -26,5 +22,4 @@ public final class StatementIteratorTest extends MTestCase {
     assertTrue(in != null);
     return new StatementIterator(in);
   }
-
 }

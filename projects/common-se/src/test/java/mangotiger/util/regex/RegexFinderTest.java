@@ -19,7 +19,7 @@ public class RegexFinderTest extends TestCase {
     InputStream is = getClass().getResourceAsStream(ST_CRISPIN_TXT);
     regexFinder = new RegexFinder(is);
     regexFinder.match("\\s+And gentlemen.*day.");
-    final List matches = regexFinder.matches();
+    final List<String> matches = regexFinder.matches();
     assertEquals(1, matches.size());
     final String expect = NEWLINE + "    And gentlemen in England now-a-bed" +
                           NEWLINE + "    Shall think themselves accurs'd they were not here," +
@@ -33,7 +33,7 @@ public class RegexFinderTest extends TestCase {
     final File file = new File(getClass().getResource(ST_CRISPIN_TXT).getFile());
     regexFinder = new RegexFinder(file);
     regexFinder.match("[^\r\n]*brother[^\r\n]*");
-    final List matches = regexFinder.matches();
+    final List<String> matches = regexFinder.matches();
     assertEquals(2, matches.size());
     final String expect = "    We few, we happy few, we band of brothers;\n" +
                           "    Shall be my brother; be he ne'er so vile,";
