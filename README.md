@@ -1,7 +1,7 @@
 Tom Gagnier
 ===========
 
-These are public works of Tome Gagnier meant to serve as an example of work.  Feel free to use as you wish.
+These are public works of Tom Gagnier meant to serve as an examples of his work.  Feel free to use as you wish.
 
 The /scripts directory contains usefull shell scripts I use in my day to day developement activities.
 
