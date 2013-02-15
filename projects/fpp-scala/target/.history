@@ -1,0 +1,10 @@
+test
+exit
+test
+find src
+ext
+exit
+build
+test
+ls
+exit

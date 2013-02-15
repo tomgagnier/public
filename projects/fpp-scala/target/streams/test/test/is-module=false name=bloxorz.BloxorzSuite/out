@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mBloxorzSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- terrain toString[0m[0m
+[0m[[0minfo[0m] [0m[32m- terrain start[0m[0m
+[0m[[0minfo[0m] [0m[32m- terrain target[0m[0m
+[0m[[0minfo[0m] [0m[32m- terrain holds[0m[0m
+[0m[[0minfo[0m] [0m[32m- standing block[0m[0m
+[0m[[0minfo[0m] [0m[32m- horizontal block moves[0m[0m
+[0m[[0minfo[0m] [0m[32m- vertical block moves[0m[0m
+[0m[[0minfo[0m] [0m[32m- solver pathsToGoal[0m[0m

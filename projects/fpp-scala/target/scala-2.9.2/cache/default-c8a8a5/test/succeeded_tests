@@ -1,0 +1,11 @@
+#Successful Tests
+#Fri Feb 15 15:54:42 EST 2013
+bloxorz.BloxorzSuite=1360961681048
+streams.BloxorzSuite=1360961680973
+forcomp.AnagramsSuite=1360961682608
+patmat.HuffmanSuite=1360961680842
+recfun.PascalSuite=1360961680796
+recfun.CountChangeSuite=1360961681107
+recfun.BalanceSuite=1360961680796
+objsets.TweetSetSuite=1360961681076
+funsets.FunSetSuite=1360961681201
