@@ -26,4 +26,26 @@ class EulerTest < Test::Unit::TestCase
     assert_equal(0, (1..9).sum_of_multiples_of(15))
   end
 
+  def test_binomial_coefficient
+    assert_equal(1, binomial_coefficient(0, 0))
+
+    assert_equal(1, binomial_coefficient(1, 0))
+    assert_equal(1, binomial_coefficient(1, 1))
+
+    assert_equal(1, binomial_coefficient(2, 0))
+    assert_equal(2, binomial_coefficient(2, 1))
+    assert_equal(1, binomial_coefficient(2, 2))
+
+    assert_equal(1, binomial_coefficient(3, 0))
+    assert_equal(3, binomial_coefficient(3, 1))
+    assert_equal(3, binomial_coefficient(3, 2))
+    assert_equal(1, binomial_coefficient(3, 3))
+
+    assert_equal(1, binomial_coefficient(4, 0))
+    assert_equal(4, binomial_coefficient(4, 1))
+    assert_equal(6, binomial_coefficient(4, 2))
+    assert_equal(4, binomial_coefficient(4, 3))
+    assert_equal(1, binomial_coefficient(4, 4))
+  end
+
 end
