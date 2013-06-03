@@ -48,4 +48,33 @@ class EulerTest < Test::Unit::TestCase
     assert_equal(1, binomial_coefficient(4, 4))
   end
 
+  def test_fibonacci
+    assert_equal([1, 1, 2, 3, 5, 8, 13], fibonacci.take(7))
+    assert_equal([1, 1, 2, 3, 5, 8, 13], fibonacci.take_while { |n| n < 20 })
+
+    enumerator = fibonacci
+    assert_equal(1, enumerator.next)
+    assert_equal(1, enumerator.next)
+    assert_equal(2, enumerator.next)
+    assert_equal(3, enumerator.next)
+    assert_equal(5, enumerator.next)
+    assert_equal(8, enumerator.next)
+    assert_equal(13, enumerator.next)
+    assert_equal(21, enumerator.next)
+  end
+
+  def test_factors_of
+    assert_equal([], factors_of(1))
+    assert_equal([2], factors_of(2))
+    assert_equal([3], factors_of(3))
+    assert_equal([2, 2], factors_of(4))
+    assert_equal([5], factors_of(5))
+    assert_equal([2, 3], factors_of(6))
+    assert_equal([5, 7, 13, 29], factors_of(13195))
+  end
+
+  def test_divisors_of
+    assert_equal([1, 2, 3, 4, 6, 8, 12, 24], divisors_of(24))
+  end
+
 end
