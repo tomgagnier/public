@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Generate ssh keys if required.
+if [ ! -e ~/.ssh/id_dsa.pub ] 
+then
+  ssh-keygen -t dsa -N ""
+fi
