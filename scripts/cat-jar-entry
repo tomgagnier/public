@@ -2,36 +2,31 @@
 
 require 'fileutils'
 require 'pathname'
+require 'tmpdir'
 
-file = Pathname ARGV.shift
-jars = ARGV
 
-jars.collect {|jar| Pathname jar}.each do |jar|
+jar_entry = ARGV.shift
+jars = ARGV.map {|jar| Pathname jar}
 
-  raise "#{jar} does not exist" unless File.exist? jar
+non_existant_jars = jars.reject { |jar| File.exist? jar }
 
-  puts "#{jar} : #{file}"
+unless non_existant_jars.empty?
+  $stderr.puts "Non-existant jars: #{non_existant_jars}"
+  exit(1)
+end
 
-  unless `jar tf #{jar} #{file}`.collect {|entry| entry.chomp}.first
-    $stderr.puts "  #{jar} does not contain #{file}"
-    next
+jars.each do |jar|
+  Dir.mktmpdir do |target|
+    FileUtils.cp jar, target
+    Dir.chdir(target) do
+      %x(jar xf #{jar.basename} #{jar_entry})
+      FileUtils.rm jar.basename
+      matches = Dir['**/*'].select { |entry| File.file?(entry) };
+      puts "#{jar}: No matches for #{jar_entry}" if matches.empty?
+      matches.each do |entry|
+        puts "#{jar}: #{entry}"
+        IO.foreach(entry) { |line| puts "  #{line}" }
+      end
+    end
   end
-
-  target = "C:/tmp/catjar_#{jar.basename}"
-
-  FileUtils.rm_rf target if File.exist? target
-  FileUtils.mkdir target
-
-  FileUtils.cp jar, target
-
-  Dir.chdir(target) do
-    system("jar xf * #{file}")
-  end
-
-  IO.foreach("#{target}/#{file}") do |line|
-    puts "  #{line}"
-  end
-
-  FileUtils.rm_rf target if File.exist? target
-
 end
