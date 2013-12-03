@@ -1,7 +1,5 @@
 !/.gitignore
-*.class
-*.iml
+!/projects
+!/scripts
+*/
 .*
-out/
-target/
-tmp/
