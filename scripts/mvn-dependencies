@@ -2,31 +2,56 @@
 
 require 'rexml/document'
 
+USAGE = <<-EOF
+Usage: #{File.basename($0)} [-f|--filter regex] mvn-pom-file ...
+
+--filter applied to "dependent-artifact" -> "dependency-artifact"; edge.
+
+Generate a graphviz dot file representing the dependencies in the Maven pom files.
+EOF
+
+def abort(message)
+    $stderr.puts message, USAGE
+    exit(1)
+end
+
 def text_of(element, xpath)
    REXML::XPath.first(element, "#{xpath}/text()").to_s.strip   
 end
 
-pom_files = ARGV
+filters = []
+pom_filenames = []
 
-if pom_files.empty?
-    puts "Usage: #{File.basename($0)} mvn-pom-file ..."
-    exit(1)
+begin
+    until ARGV.empty? do
+        case argument = ARGV.shift
+        when '--help', '-h'
+            puts USAGE
+            exit 0
+        when '--filter', '-f'
+            filters << ARGV.shift
+        else
+            pom_filenames << ARGV.shift
+        end
+    end
+rescue
+    abort("Unable to parse arguments")
 end
 
-projects = pom_files.map { |file| REXML::Document.new(File.new(file)).root }
+abort("At least one pom file must be specified.") if pom_filenames.empty?
+
+projects = pom_filenames.map { |file| REXML::Document.new(File.new(file)).root }
 
 to_id = lambda { |artifact_node| "#{text_of(artifact_node, 'groupId')}.#{text_of(artifact_node, 'artifactId')}" }
 
-to_dependency_ids = lambda do |project| 
-    REXML::XPath.
-        match(project, 'dependencies/dependency').
-        map(&to_id).
-        select { |id| id.include? 'lancope' } 
-end
+to_dependency_ids = lambda { |project| REXML::XPath.match(project, 'dependencies/dependency').map(&to_id) }
 
 dependencies = Hash[projects.map(&to_id).zip(projects.map(&to_dependency_ids))]
 
-edges = dependencies.map { |k,v| v.map { |d| %Q(  "#{k}" -> "#{d}";) } }
+edges = dependencies.
+    map { |k,v| v.map { |d| %Q("#{k}" -> "#{d}";) } }.
+    flatten.
+    select {|edge| filters.any? {|filter| Regexp.new(filter) =~ edge } }
 
-puts 'digraph {', edges, '}'
+puts '/* Maven pom files:', pom_filenames.map{|f| " * #{f}"}, ' */', 'digraph {', edges, '}'
 
