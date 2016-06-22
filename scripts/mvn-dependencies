@@ -29,9 +29,10 @@ begin
             puts USAGE
             exit 0
         when '--filter', '-f'
-            filters << ARGV.shift
+            filter = ARGV.shift
+            filters << filter unless filter.nil?
         else
-            pom_filenames << ARGV.shift
+            pom_filenames << argument unless argument.nil?
         end
     end
 rescue
@@ -42,7 +43,7 @@ abort("At least one pom file must be specified.") if pom_filenames.empty?
 
 projects = pom_filenames.map { |file| REXML::Document.new(File.new(file)).root }
 
-to_id = lambda { |artifact_node| "#{text_of(artifact_node, 'groupId')}.#{text_of(artifact_node, 'artifactId')}" }
+to_id = lambda { |artifact_node| "#{text_of(artifact_node, 'groupId')}:#{text_of(artifact_node, 'artifactId')}" }
 
 to_dependency_ids = lambda { |project| REXML::XPath.match(project, 'dependencies/dependency').map(&to_id) }
 
@@ -50,7 +51,7 @@ dependencies = Hash[projects.map(&to_id).zip(projects.map(&to_dependency_ids))]
 
 edges = dependencies.
     map { |k,v| v.map { |d| %Q("#{k}" -> "#{d}";) } }.
-    flatten.
+    flatten.sort.uniq.
     select {|edge| filters.any? {|filter| Regexp.new(filter) =~ edge } }
 
 puts '/* Maven pom files:', pom_filenames.map{|f| " * #{f}"}, ' */', 'digraph {', edges, '}'
