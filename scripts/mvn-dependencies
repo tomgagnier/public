@@ -1,0 +1,32 @@
+#!/usr/bin/env ruby
+
+require 'rexml/document'
+
+def text_of(element, xpath)
+   REXML::XPath.first(element, "#{xpath}/text()").to_s.strip   
+end
+
+pom_files = ARGV
+
+if pom_files.empty?
+    puts "Usage: #{File.basename($0)} mvn-pom-file ..."
+    exit(1)
+end
+
+projects = pom_files.map { |file| REXML::Document.new(File.new(file)).root }
+
+to_id = lambda { |artifact_node| "#{text_of(artifact_node, 'groupId')}.#{text_of(artifact_node, 'artifactId')}" }
+
+to_dependency_ids = lambda do |project| 
+    REXML::XPath.
+        match(project, 'dependencies/dependency').
+        map(&to_id).
+        select { |id| id.include? 'lancope' } 
+end
+
+dependencies = Hash[projects.map(&to_id).zip(projects.map(&to_dependency_ids))]
+
+edges = dependencies.map { |k,v| v.map { |d| %Q(  "#{k}" -> "#{d}";) } }
+
+puts 'digraph {', edges, '}'
+
